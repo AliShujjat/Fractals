@@ -9,4 +9,4 @@ Using recursion I have implement two famous fractals
 - Koch Snowflake
 - Sierpiński triangle
 
-This was done using python and the turtle library.
+This was done using python and the turtle graphics library.
